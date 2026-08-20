@@ -185,7 +185,7 @@ Some ideas for future versions:
 - A simple web interface
 - Expanding the planner to more destinations
 
-For now, it's a small project that combines **something I genuinely enjoy — travelling — with something I'm learning — building applications with LLMs.**
+For now, it's a small project that combines **something I genuinely enjoy  travelling —>with something I'm learning and building applications with LLMs.**
 
 And honestly, that's what made it fun to build as well.
 
